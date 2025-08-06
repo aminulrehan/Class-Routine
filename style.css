@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-      margin: 30px;
+      margin: 40px;
       background-color: rgb(179, 217, 113);
 }
 thead {
@@ -10,10 +10,11 @@ tbody {
     background-color: lightsteelblue;
 }
 th, td {
-    padding: 15px;
+    padding: 20px;
     text-align: center;
     border: 1px solid rgb(31, 26, 33);
 }
 table{
     border-collapse: collapse;
+
 }
